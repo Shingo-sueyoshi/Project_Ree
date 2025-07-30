@@ -6,6 +6,7 @@
 const int SCREEN_WIDTH = 640;
 const int SCREEN_HEIGHT = 480;
 
+//こんばんは
 const int GROUND_HEIGHT = 400;      // 地面のY座標
 const float GRAVITY = 0.5f;         // 重力加速度
 const float JUMP_POWER_MIN = 5.0f;  // 最低ジャンプ力
